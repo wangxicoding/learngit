@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdring.h>
+#include <math.h>
+#inlcude <malloc.h>
+#inlcude <alogrithm>
+
+using namespace std;
+
+int main()
+{
+	int a,b;
+	int c;
+	c = a + b;
+	printf("c: %d\n", c);
+}
